@@ -4,6 +4,12 @@ Backend application for a digital business card built with NestJS, GraphQL, Pris
 
 The GraphQL API provides information about the profile, skills, work experience and projects.
 
+## Live Demo
+
+The deployed GraphQL API is available at:
+
+https://digital-card-production-001a.up.railway.app/graphql
+
 ## Tech Stack
 
 - TypeScript
